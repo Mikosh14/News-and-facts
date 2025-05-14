@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 3. Run the app:
 ```bash
-python app.txt
+python app.py
 ```
 
 Open your browser and go to:
